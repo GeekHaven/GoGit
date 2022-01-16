@@ -1,2 +1,0 @@
-Mirzapuur
-relatable ecosystem
