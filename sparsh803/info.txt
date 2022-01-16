@@ -1,1 +1,6 @@
 understood pretty much everything , a little hazy about squashing tho.
+
+uses of git/ github are that it lets multiple people work simultaneously
+on a topic. it allows to view the entire history that a topic went through with each change.
+storing repos on github helps us save space on our device.
+github pages is a free way of hosting sites.
