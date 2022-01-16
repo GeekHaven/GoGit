@@ -1,6 +1,7 @@
 # GoGit
 ## Task 4
 ### Step-1
+
 - First checkout to the task4 branch and create a new branch named `PR-branch`.
 - Now in your task4 branch create a new folder whose name will be your GitHub username.
 - Inside this folder create a text file whose name will be `info.txt`.
@@ -33,6 +34,9 @@
 
 ### Note- ☠️ Don't just copy paste your changes and commit them as I want, use a valid git procedure to do this task. If found that you didn't use any valid git procedure, that may lead to a ban from any further contests. 
 
+
+
+<hr>
 
 
 
