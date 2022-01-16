@@ -1,0 +1,5 @@
+Ans- First Alexa Need To Connect Her Remote To The Remote Repo
+     Then She Can Fetch And Pull The Latest Changes According To The Barnch
+	using
+	git fetch remote_name branch_name
+	git pull remote_name branch_name
