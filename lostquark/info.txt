@@ -1,0 +1,2 @@
+all the topics where understood properly
+git is a version contro system tht helps developers to work in groups. And gives the ability to revert back to prevous versions of the code in case some problem arises.
