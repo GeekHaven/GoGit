@@ -1,1 +1,3 @@
-**Ques1-** What is your favourite TV Show/Web Series? </br>
+**Ques1-** TMKOC </br>
+**Ques2-** funny</br>
+**Ques5-** nice
