@@ -1,1 +1,3 @@
 squash concept, revert vs reset
+
+Uses: can restore old versions of project whenever we want, allows multiple users to work together on the same project conviniently.Can save all your projects in one place in an organized manner.
