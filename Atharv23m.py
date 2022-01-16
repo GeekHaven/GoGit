@@ -1,2 +1,3 @@
 - hunter x hunter
 - its cool 
+- Awesome, Learning Git was made so easier by the meets and tasks..
