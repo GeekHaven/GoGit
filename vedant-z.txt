@@ -1,2 +1,7 @@
 My favourite movie is TAARE ZAMIN PAR
+<<<<<<< HEAD
 This movie is my favourite one as it was the first film I had seen in a theatre with my father when I was just 3-4 years old.It will be my most memorable film.
+=======
+Ishaan Awasthi
+Rajan Damodaran
+>>>>>>> feature
