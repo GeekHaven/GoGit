@@ -1,2 +1,3 @@
-Understood mostly everything just do not know practical use of some commands
+- Understood mostly everything just do not know practical use of some commands
 and resolving merge conflicts when too many people are involved. 
+- Github is used for collaborating with others developers working on a single project, most common example being open source projects where anyone can contribute to the code. 
