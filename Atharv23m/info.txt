@@ -1,0 +1,2 @@
+Understood mostly everything just do not know practical use of some commands
+and resolving merge conflicts when too many people are involved. 
