@@ -1,2 +1,3 @@
 - hunter x hunter
 - its cool 
+- someone i met in my dreams 
