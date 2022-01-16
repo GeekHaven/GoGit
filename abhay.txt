@@ -1,0 +1,2 @@
+git pull                                                 //if tom is origin
+git pull <remote name> <branch name>                     //if tom is added as remote repo
