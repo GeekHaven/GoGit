@@ -1,3 +1,7 @@
 I understood the concepts but my workspace in github is very clumsy.
 I am unable to organise my work in github.
 I want to understand how to manage different repsitories, their pull requests, changes etc.
+
+When multiple people are working on a same project we need a mechanism to control the changes being made 
+for the output to be effecient and organised.
+We use git to do that.
