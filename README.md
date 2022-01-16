@@ -1,5 +1,4 @@
 # GoGit
-
 ## Task 2
 
 This task consists of the following steps.
@@ -32,3 +31,8 @@ This task consists of the following steps.
 <hr>
 
 Checkout to branch `task3` for the next task.
+
+
+<hr>
+
+Checkout to branch `task2` for the next task
