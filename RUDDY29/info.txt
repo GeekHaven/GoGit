@@ -1,2 +1,5 @@
 git stashing
 rebase
+
+ It makes it easy to contribute to your open source projects
+it helps to  Track changes in your code across versions
