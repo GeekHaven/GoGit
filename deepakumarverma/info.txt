@@ -1,1 +1,7 @@
 last part pf workshop day 3
+
+use of git and github
+
+1-it provides a platform to edit , view and revert our data efficieintly
+2-it provides a platform where many people work on same project at a same time
+3-github provides us online platform to store or share our project data easily
