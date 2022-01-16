@@ -1,1 +1,2 @@
 How to delete the already existing commit
+It is used as a version control system and to develop FOSS by contributions and collaborations from programmers accross the world.
