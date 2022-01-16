@@ -1,1 +1,2 @@
 - hunter x hunter
+- its cool 
