@@ -1,4 +1,9 @@
 My Favourite movie is Avengers : ENDGAME 
+<<<<<<< HEAD
 CAP LIFTED MJORNIR
 TONY STARK SACRIFICED HIS LIFE
 THE MAD TITAN WAS DEAD (2TIMES)
+=======
+TONY STARK
+THOR ODINSON
+>>>>>>> feature
