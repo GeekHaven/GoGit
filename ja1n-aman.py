@@ -1,4 +1,4 @@
 Peaky Blinders
-Because it is good.
+Because it is gud.
 Yaha nai bata rae ham.
 N
