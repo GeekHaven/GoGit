@@ -1,2 +1,7 @@
 My favourite movie is : 3 ediots 
+<<<<<<< HEAD
 this is my favourite movie because it has a nice story
+=======
+Funsuk Wangru
+Pia 
+>>>>>>> feature
