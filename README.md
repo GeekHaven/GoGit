@@ -1,6 +1,7 @@
 # GoGit
 ## Task 3
 ### Step-1
+
 - First checkout to the task3 branch.
 - Create a new file named as `github-username.py`. For example, if github username is **raghavgoel25** then file name will be `raghavgoel25.py`
 - Now answer the following four questions in the new file. The answer to each question should be present in a different commit with the commit message `Commit <Question No.>`
@@ -29,3 +30,5 @@
 <hr>
 
 Checkout to branch `task4` for the next task!
+
+<hr>
