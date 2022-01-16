@@ -1,2 +1,6 @@
 Revert
 Rebase
+
+ques-
+ans-Github is a provides developer a platform where a very large number of developer can work together in the same project without creating any mess.
+Git is used to create,clone,delete,edit and many other things to repo using some commands and stores the history of changes made and who made the changes.
