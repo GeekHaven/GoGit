@@ -1,0 +1,1 @@
+to see the changes she can use either git pull or git fetch and then merge 
