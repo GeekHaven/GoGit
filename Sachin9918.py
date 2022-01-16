@@ -1,4 +1,1 @@
-Mirzapur
-relatable ecosystem
-Divya
-yes
+mirzapur
