@@ -1,1 +1,4 @@
 I have understood things well, but at times bit confused about merge conflicts.
+
+USE OF GITHUB IS IT HELPS THE WORLD TO DO COLLABORATIVE CODING.
+USE OF GIT IS TO ENABLE USERS TO DO CODE COLLABORATIVELY ON A SOFTWARE AT THE SAME TIME.
