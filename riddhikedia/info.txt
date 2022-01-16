@@ -1,1 +1,4 @@
 I have some confusion in squash part.
+use of git/github:
+it is used to created our own repository from the local repo.
+helps us in publishing our work to others.
