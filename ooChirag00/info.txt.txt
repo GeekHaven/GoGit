@@ -1,1 +1,2 @@
 nothing
+github is a platform used by programmers to work on a project together and share codes.
