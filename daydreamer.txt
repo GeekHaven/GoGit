@@ -1,2 +1,7 @@
 Favourite Book Series: Storm and Silence Series
+<<<<<<< HEAD
 I love this book because this book has everything ranging from, feminism to action to steamy romance.
+=======
+Character 1:Lilly Linton
+Character 2:Rikkard Ambrose
+>>>>>>> feature
