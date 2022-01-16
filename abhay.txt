@@ -1,0 +1,1 @@
+She will use git fetch command to take all data from remote repo to her local repo
