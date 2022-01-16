@@ -1,2 +1,5 @@
 Ques- Name the topics that you did't understand from FOSS workshops.
 -->some problem in rebase.[little bit]
+
+Ques- Explain in brief the uses of git/github.
+-->Hub is a website for hosting projects that use git. Git is a type of version control system (VCS) that makes it easier to track changes to files. For example, when you edit a file, git can help you determine exactly what changed, who changed it, and why. 
