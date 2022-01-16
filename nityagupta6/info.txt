@@ -1,1 +1,2 @@
 Understood all of them
+It is an open source software which allows us to make projects in a collaborative mannar.
