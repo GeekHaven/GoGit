@@ -1,7 +1,4 @@
 HARRY POTTER SERIES
-<<<<<<< HEAD
 Harry Potter is one of my favourite movie. This movie becoming my favourite since it has been held on theatre eight years ago. In my opinion, the story is totally awesome. Based on the best seller novel by JK.Rowling, this movie becomes real. I mean that the story is fiction, but it looks real when we see the movie.
-=======
 HARRY POTTER
 SIRIUS BLACK
->>>>>>> feature
