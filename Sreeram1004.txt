@@ -1,7 +1,4 @@
 AVENGER:ENDGAME
-<<<<<<< HEAD
 it is my favourite movie because as a marvel fan i was thrilled for final movie of veteran avengers like ironman and captain america and they lived upto expectations
-=======
 IRONMAN
 CAPTAIN AMERICA
->>>>>>> feature
