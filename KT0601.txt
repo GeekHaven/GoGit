@@ -1,7 +1,4 @@
 Avengers-endgame
-<<<<<<< HEAD
 this movie have a lot of action,thrill,supsense....
-=======
->>>>>>> feature
 IRON MAN
 SPIDER MAN
