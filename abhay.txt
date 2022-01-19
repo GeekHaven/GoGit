@@ -1,3 +1,6 @@
+
+commit command
+
 BuddyLongLegs:
 She must use the git fetch command
 
@@ -30,3 +33,4 @@ git fetch/ git pull
 
 Tan-Code-may
 Fetch upstream -> Fetch and merge
+
