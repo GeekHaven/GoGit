@@ -27,3 +27,6 @@ Ansh212
 
 SanyamAgrawal07:
 git fetch/ git pull
+
+Tan-Code-may
+Fetch upstream -> Fetch and merge
