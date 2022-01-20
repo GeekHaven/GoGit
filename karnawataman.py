@@ -1,0 +1,2 @@
+Harry Potter 
+This series taught me about friendship, love, bravery, and the goodness and downfall of human nature, among many other things. The life lessons dispersed in the text have always kept me coming back for more. Many people grew up with Harry, so for them, the Harry Potter series represents their childhood.
